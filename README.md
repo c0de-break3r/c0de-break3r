@@ -78,7 +78,6 @@ I build modern, scalable web applications and craft custom tools for **bug bount
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:networkmandaean@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anujcom.vercel.app/)
 
 </div>
 
