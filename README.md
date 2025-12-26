@@ -49,7 +49,7 @@ I build modern, scalable web applications and craft custom tools for **bug bount
 <img src="https://skillicons.dev/icons?i=react,tailwindcss,expressjs,nextjs,vite" />
 
 ### Databases  
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,neon" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 
 ### Message Queues & Tools  
 <img src="https://skillicons.dev/icons?i=nodejs,docker,git,linux,restapi" />
