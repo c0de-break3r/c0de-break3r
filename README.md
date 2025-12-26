@@ -17,11 +17,11 @@
 I'm a passionate **Full Stack Developer & Bug Bounty Hunter** from **Ghana 🇬🇭**.
 I build modern, scalable web applications and craft custom tools for **bug bounty hunting and penetration testing**, combining development skills with an offensive security mindset. 
 - 🔭 **Currently Building:** Full-stack web apps & custom security mindset  
-- 🌱 **Currently Learning:** Advance Web Security, System Design, API Hardening
+- 🌱 **Currently Learning:** Advance Web Security, Website Security, API Hardening
 - 💬 **Ask me about:** HTML5, CSS3, JavaScript, Typescript, Python, Bash
 - ⚡ **Fun fact:** I code 5–7 hours daily  
 - ⚙️ **Tech Stack:**
-  - ***Frontend:*** React • shadcn/ui • HTML5 • CSS3 • TypeScript • Next.js • Vite
+  - ***Frontend:*** React • Shadcn/ui • HTML5 • CSS3 • TypeScript • Next.js • Vite
   - ***Backend:*** Node.js • Express  
   - ***Security & Scripting:*** Python • Bash • Automation • Recon Tools
 
@@ -29,9 +29,8 @@ I build modern, scalable web applications and craft custom tools for **bug bount
 
 - 📫 **Reach me at:** Setting up slack for client collaboration meeting!
 
-- ⚡ **Fun fact:** I enjoy breaking systems just as much as building them
-
-- 🚀 Portfolio: No Portfolio
+- ⚡ **Fun fact:** Breaking System, Building Knowledge
+- 🚀 Portfolio: No Portfolio Yet
 <br clear="both">
 
 ---
