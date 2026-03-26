@@ -76,7 +76,7 @@ I build modern, scalable web applications and craft custom tools for **bug bount
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:networkmandaean@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wa.me/+233539404391)
 
 </div>
 
