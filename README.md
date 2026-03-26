@@ -1,59 +1,83 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7700E&center=true&width=435&lines=I'm+a+Frontend+Developer+%F0%9F%93%B1;I'm+a+Backend+Developer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A%F0%9F%93%96;Building+Recon+Tools+%F0%9F%9B%A0%EF%B8%8F;Python+%26+Bash+Enthusiats+%F0%9F%90%9B;I'm+a+Bug+Bounty+Hunter+%F0%9F%95%B5%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F" alt=""/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=F7700E&center=true&width=435&lines=Backend+Engineer+%F0%9F%9A%80;Offensive+Security+%26+Bug+Bounty+%F0%9F%95%B5%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Automation+%26+Recon+Tools+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+%F0%9F%93%9A%F0%9F%93%96" alt="Typing intro" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20c0de-break3r&reversal=false&textBg=false&fontSize=40&fontColor=F7B115FF&animation=twinkling&rotate=0&stroke=F70000FF&strokeWidth=0&fontAlignY=25&desc=Code.%20Create.%20Innovate.&descSize=25&fontAlign=38&descAlignY=47&descAlign=66" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20c0de-break3r&reversal=false&textBg=false&fontSize=40&fontColor=F7B115FF&animation=twinkling&rotate=0&stroke=F70000FF&strokeWidth=0&fontAlignY=25&desc=Backend%20Engineering%20%7C%20Automation%20%7C%20Offensive%20Security&descSize=22&fontAlign=38&descAlignY=47&descAlign=66" />
 </div> 
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU5NjY4OTksIm5iZiI6MTc2NTk2NjU5OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE3VDEwMTYzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ZTdlMDFlYzhhMWQwMTBhMWMxNjhjYmNlOGRhOWU0ODM2ZGVmOWM3MDUxMWViNGM1YWRiNTQ4N2IyNTM3MjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j3Ts651Zu7jMHUIJMXeH_elVeWCkXuFa80bH5ZMV7Yg" width="500">
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500">
 </p>
 
 ## 🚀 About Me
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="border-raduis:20px;">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="border-radius:20px;">
 
-I'm a passionate **Software Engineer & Cybersecurity Analyst** from **Ghana 🇬🇭**.
-I build modern, scalable web applications and craft custom tools for **bug bounty hunting and penetration testing**, combining development skills with an offensive security mindset. 
-- 🔭 **Currently Building:** Softwares & custom security mindset  
-- 🌱 **Currently Learning:** Advance Web Security
-- 💬 **Ask me about:** HTML5, CSS3, JavaScript, Typescript, Python, Bash
-- ⚡ **Fun fact:** I code 5–7 hours daily  
-- ⚙️ **Tech Stack:**
-  - ***Frontend:*** Shadcn • TypeScript • Next.js • 
-  - ***Backend:*** Node.js • Express  
-  - ***Security & Scripting:*** Python • Bash • Automation • Recon Tools
+I'm a **Software Engineer & Cybersecurity Practitioner** from **Ghana 🇬🇭**.
 
-- 🛠️ **Interests:** Bug Bounty Hunting • Web Pentesting • Tool Development
+I build **modern backend systems** and craft **automation and recon tools** for **bug bounty hunting and web application pentesting**, combining solid engineering practices with an offensive security mindset.
 
-- 📫 **Reach me at:** Setting up slack for client collaboration meeting!
+- 🔭 **Currently building:** Recon/automation tooling and secure backend services  
+- 🌱 **Currently learning:** Advanced web application security & secure backend patterns  
+- 💬 **Ask me about:** Node.js, Express, Python, Bash, REST APIs, web security fundamentals  
+- 🛡️ **Focus:** Backend security, offensive security workflows, and tooling  
+- ⚡ **Fun fact:** I enjoy breaking systems to understand them — and then hardening them
 
-- ⚡ **Fun fact:** Breaking System, Building Knowledge
-- 🚀 Portfolio: No Portfolio Yet
 <br clear="both">
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages  
-<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,typescript" />
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,typescript### Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
 
-### Frameworks  
-<img src="https://skillicons.dev/icons?i=react,tailwindcss,expressjs,nextjs,vite" />
+### Frontend  
+<strong>Core:</strong> Next.js • Tailwind CSS • shadcn/ui  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite" />
 
 ### Databases  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 
-### Message Queues & Tools  
-<img src="https://skillicons.dev/icons?i=nodejs,docker,git,linux" />
+### Tooling & OS  
+<img src="https://skillicons.dev/icons?i=docker,git,linux" />
 
 </div>
+
+---
+
+ 🎯 What I Focus On
+
+### Backend Development
+
+- Designing and maintaining **Node.js / Express** APIs  
+- Working with **PostgreSQL / MySQL / MongoDB**  
+- Applying **secure coding practices**, validation, and basic threat modeling
+
+### Offensive Security & Pentesting
+
+- Reconnaissance and attack surface mapping  
+- Identifying common web vulnerabilities and misconfigurations  
+- Writing scripts to ** recon workflows**
+
+### Automation & Tooling
+
+- Building **CLI tools and small services** in Python and Bash  
+- Automating repetitive recon and reporting tasks  
+- Orchestrating multiple tools into **cohesive pipelines**
+
+---
+
+## 📬 Contact & Links
+
+I’m open to **collaborations, security-focused projects, and backend roles**.
+
+- 📧 Email: `networkmandaean@gmail.com`  
+- 🐙 GitHub: `https://github.com/c0de-break3r/c0de-break3r.git`  
 
 ---
 
@@ -65,13 +89,10 @@ I build modern, scalable web applications and craft custom tools for **bug bount
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="" width="40" height="40"> 
-<div>
+  <sub>Code. Automate. Break. Learn. Harden.</sub>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-
