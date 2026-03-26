@@ -33,7 +33,9 @@ I build **modern backend systems** and craft **automation and recon tools** for 
 <div align="center">
 
 ### Languages  
-<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,typescript### Backend  
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,typescript" />
+
+### Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
 
 ### Frontend  
