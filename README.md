@@ -14,14 +14,14 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="border-raduis:20px;">
 
-I'm a passionate **Full Stack Developer & Bug Bounty Hunter** from **Ghana 🇬🇭**.
+I'm a passionate **Software Engineer & Cybersecurity Analyst** from **Ghana 🇬🇭**.
 I build modern, scalable web applications and craft custom tools for **bug bounty hunting and penetration testing**, combining development skills with an offensive security mindset. 
-- 🔭 **Currently Building:** Full-stack web apps & custom security mindset  
-- 🌱 **Currently Learning:** Advance Web Security, Website Security, API Hardening
+- 🔭 **Currently Building:** Softwares & custom security mindset  
+- 🌱 **Currently Learning:** Advance Web Security
 - 💬 **Ask me about:** HTML5, CSS3, JavaScript, Typescript, Python, Bash
 - ⚡ **Fun fact:** I code 5–7 hours daily  
 - ⚙️ **Tech Stack:**
-  - ***Frontend:*** React • Shadcn/ui • HTML5 • CSS3 • TypeScript • Next.js • Vite
+  - ***Frontend:*** Shadcn • TypeScript • Next.js • 
   - ***Backend:*** Node.js • Express  
   - ***Security & Scripting:*** Python • Bash • Automation • Recon Tools
 
