@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=F7700E&center=true&width=435&lines=Backend+Engineer+%F0%9F%9A%80;Offensive+Security+%26+Bug+Bounty+%F0%9F%95%B5%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Automation+%26+Recon+Tools+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+%F0%9F%93%9A%F0%9F%93%96" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=F7700E&center=true&width=435&lines=Backend+Developer+%F0%9F%9A%80;Offensive+Security+%26+Bug+Bounty+%F0%9F%95%B5%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Automation+%26+Recon+Tools+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+%F0%9F%93%9A%F0%9F%93%96" alt="Typing intro" />
 </div>
 
 <div align="center">
