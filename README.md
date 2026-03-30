@@ -28,6 +28,29 @@ I build **modern backend systems** and craft **automation and recon tools** for 
 
 ---
 
+## 📂 Featured Projects (Portfolio)
+
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **WebNest** | A high-performance full-stack platform with headless CMS integration. | Next.js, Sanity, Tailwind | [View Repo](https://github.com) |
+| **Recon-Automator** | CLI tool for automated attack surface mapping and subdomain discovery. | Python, Bash, Docker | [View Repo](https://github.com) |
+| **Secure-API-Boilerplate** | A hardened Node.js/Express starter kit with security headers and rate-limiting. | Node.js, JWT, MongoDB | [View Repo](https://github.com) |
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -52,25 +75,22 @@ I build **modern backend systems** and craft **automation and recon tools** for 
 
 ---
 
- 🎯 What I Focus On
+## 🎯 What I Focus On
 
 ### Backend Development
-
-- Designing and maintaining **Node.js / Express** APIs  
-- Working with **PostgreSQL / MySQL / MongoDB**  
-- Applying **secure coding practices**, validation, and basic threat modeling
+- Designing and maintaining **Node.js / Express** APIs.
+- Working with **PostgreSQL / MySQL / MongoDB**.
+- Applying **secure coding practices**, validation, and basic threat modeling.
 
 ### Offensive Security & Pentesting
-
-- Reconnaissance and attack surface mapping  
-- Identifying common web vulnerabilities and misconfigurations  
-- Writing scripts to ** recon workflows**
+- Reconnaissance and attack surface mapping.
+- Identifying common web vulnerabilities and misconfigurations.
+- Writing scripts to **automate recon workflows**.
 
 ### Automation & Tooling
-
-- Building **CLI tools and small services** in Python and Bash  
-- Automating repetitive recon and reporting tasks  
-- Orchestrating multiple tools into **cohesive pipelines**
+- Building **CLI tools and small services** in Python and Bash.
+- Automating repetitive recon and reporting tasks.
+- Orchestrating multiple tools into **cohesive pipelines**.
 
 ---
 
@@ -78,8 +98,8 @@ I build **modern backend systems** and craft **automation and recon tools** for 
 
 I’m open to **collaborations, security-focused projects, and backend roles**.
 
-- 📧 Email: `networkmandaean@gmail.com`  
-- 🐙 GitHub: `https://github.com/c0de-break3r/c0de-break3r.git`  
+- 📧 **Email:** [networkmandaean@gmail.com](mailto:networkmandaean@gmail.com)  
+- 🐙 **GitHub:** [https://github.com/c0de-break3r/c0de-break3r.git](https://github.com/c0de-break3r/c0de-break3r.git)  
 
 ---
 
