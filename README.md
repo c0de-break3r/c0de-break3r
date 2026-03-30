@@ -33,23 +33,10 @@ I build **modern backend systems** and craft **automation and recon tools** for 
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **WebNest** | A high-performance full-stack platform with headless CMS integration. | Next.js, Sanity, Tailwind | [View Repo](https://github.com) |
+| **WebNest** | A high-performance full-stack platform with headless CMS integration. | Next.js, Sanity, Tailwind | [View Repo](https://github.com/c0de-break3r/WEBNEST.git) |
 | **Recon-Automator** | CLI tool for automated attack surface mapping and subdomain discovery. | Python, Bash, Docker | [View Repo](https://github.com) |
 | **Secure-API-Boilerplate** | A hardened Node.js/Express starter kit with security headers and rate-limiting. | Node.js, JWT, MongoDB | [View Repo](https://github.com) |
 
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
