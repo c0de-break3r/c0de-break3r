@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B115&center=true&vCenter=true&width=500&lines=c0de-break3r;Backend+%26+Security+Engineer;" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B115&center=true&vCenter=true&width=500&lines=c0de-break3r;Software+Engineer;Automation+%26+Offensive+Security" alt="Typing intro" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F70000,100:F7B115&text=n3tw0rk&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Backend+%7C+Automation+%7C+Offensive+Security&descSize=18&descAlignY=72" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F70000,100:F7B115&text=n3tw0rk&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Software+Engineering+%7C+Automation+%7C+Security&descSize=18&descAlignY=72" alt="Header banner" />
 
 </div>
 
@@ -12,11 +12,11 @@
 
 Software engineer and cybersecurity practitioner based in **Accra, Ghana**.
 
-I build **backend systems**, **full-stack applications**, and **automation tooling** for recon and web application security — pairing solid engineering with an offensive security mindset.
+I build **web and mobile applications**, **automation tooling**, and **security-focused scripts** — pairing solid engineering with an offensive security mindset.
 
-- **Building:** Recon pipelines, secure APIs, and production web apps
-- **Learning:** Advanced web app security and secure backend architecture
-- **Ask me about:** Node.js, Express, Python, Bash, REST APIs, and web security fundamentals
+- **Building:** Full-stack apps, recon pipelines, and production-ready software
+- **Learning:** Advanced web application security and modern development patterns
+- **Ask me about:** JavaScript, TypeScript, Python, React, and web security fundamentals
 - **Approach:** Break systems to understand them — then design them to hold up
 
 ---
@@ -27,6 +27,9 @@ I build **backend systems**, **full-stack applications**, and **automation tooli
 | :--- | :--- | :--- | :--- |
 | **[Kofiyesu](https://github.com/c0de-break3r/kofiyesu)** | Interactive 3D portfolio with CMS, AI chat intake, and Paystack payments | React 19, TypeScript, Vite, Three.js, Prisma, Neon | [Repo](https://github.com/c0de-break3r/kofiyesu) · [Live](https://kofiyesu.com) |
 | **[Bornblix](https://github.com/c0de-break3r/bornblix)** | Full-stack monorepo — Express API, web client, and Expo mobile app with real-time features | Bun, Express, MongoDB, Socket.io, Expo, React Native | [Repo](https://github.com/c0de-break3r/bornblix) |
+| **[WebNest](https://github.com/c0de-break3r/WEBNEST)** | High-performance full-stack platform with headless CMS integration | Next.js, Sanity, Tailwind | [Repo](https://github.com/c0de-break3r/WEBNEST) |
+| **[Recon-Automator](https://github.com/c0de-break3r/Recon-Automator)** | CLI tool for automated attack surface mapping and subdomain discovery | Python, Bash, Docker | [Repo](https://github.com/c0de-break3r/Recon-Automator) |
+| **[Secure-API-Boilerplate](https://github.com/c0de-break3r/Secure-API-Boilerplate)** | Hardened Node.js/Express starter kit with security headers and rate limiting | Node.js, JWT, MongoDB | [Repo](https://github.com/c0de-break3r/Secure-API-Boilerplate) |
 
 ---
 
@@ -37,8 +40,8 @@ I build **backend systems**, **full-stack applications**, and **automation tooli
 **Languages**  
 <img src="https://skillicons.dev/icons?i=python,bash,js,ts,html,css" alt="Languages" />
 
-**Backend & APIs**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun" alt="Backend" />
+**Frameworks & Runtimes**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun" alt="Frameworks" />
 
 **Frontend & Mobile**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
@@ -52,8 +55,8 @@ I build **backend systems**, **full-stack applications**, and **automation tooli
 
 ## What I Work On
 
-**Backend development**  
-Designing Node.js / Express APIs, working with PostgreSQL, MySQL, and MongoDB, and applying secure coding practices, input validation, and basic threat modeling.
+**Software development**  
+Building web and mobile apps with React, TypeScript, and Node.js — from UI and APIs to databases and deployment.
 
 **Offensive security**  
 Reconnaissance, attack surface mapping, identifying common web vulnerabilities, and scripting repetitive pentest workflows.
@@ -78,7 +81,7 @@ CLI tools and small services in Python and Bash, orchestrating recon tools into 
 
 ## Contact
 
-Open to collaborations, security-focused projects, and backend roles.
+Open to collaborations, security-focused projects, and software engineering roles.
 
 - **Email:** [networkmandaean@gmail.com](mailto:networkmandaean@gmail.com)
 - **GitHub:** [@c0de-break3r](https://github.com/c0de-break3r)
