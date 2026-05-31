@@ -1,107 +1,94 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=F7700E&center=true&width=435&lines=Backend+Developer+%F0%9F%9A%80;Offensive+Security+%26+Bug+Bounty+%F0%9F%95%B5%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Automation+%26+Recon+Tools+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+%F0%9F%93%9A%F0%9F%93%96" alt="Typing intro" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B115&center=true&vCenter=true&width=500&lines=c0de-break3r;Backend+%26+Security+Engineer;Building+tools+that+break+%E2%80%94+then+harden" alt="Typing intro" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F70000,100:F7B115&text=n3tw0rk&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Backend+%7C+Automation+%7C+Offensive+Security&descSize=18&descAlignY=72" alt="Header banner" />
+
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20c0de-break3r&reversal=false&textBg=false&fontSize=40&fontColor=F7B115FF&animation=twinkling&rotate=0&stroke=F70000FF&strokeWidth=0&fontAlignY=25&desc=Backend%20Development%20%7C%20Automation%20%7C%20Offensive%20Security&descSize=22&fontAlign=38&descAlignY=47&descAlign=66" />
-</div> 
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500">
-</p>
-
-## 🚀 About Me
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="border-radius:20px;">
-
-I'm a **Software Engineer & Cybersecurity Practitioner** from **Ghana 🇬🇭**.
-
-I build **modern backend systems** and craft **automation and recon tools** for **bug bounty hunting and web application pentesting**, combining solid engineering practices with an offensive security mindset.
-
-- 🔭 **Currently building:** Recon/automation tooling and secure backend services  
-- 🌱 **Currently learning:** Advanced web application security & secure backend patterns  
-- 💬 **Ask me about:** Node.js, Express, Python, Bash, REST APIs, web security fundamentals  
-- 🛡️ **Focus:** Backend security, offensive security workflows, and tooling  
-- ⚡ **Fun fact:** I enjoy breaking systems to understand them — and then hardening them
-
-<br clear="both">
 
 ---
 
-## 📂 Featured Projects (Portfolio)
+## About
 
+Software engineer and cybersecurity practitioner based in **Accra, Ghana**.
 
-| Project | Description | Tech Stack | Link |
+I build **backend systems**, **full-stack applications**, and **automation tooling** for recon and web application security — pairing solid engineering with an offensive security mindset.
+
+- **Building:** Recon pipelines, secure APIs, and production web apps
+- **Learning:** Advanced web app security and secure backend architecture
+- **Ask me about:** Node.js, Express, Python, Bash, REST APIs, and web security fundamentals
+- **Approach:** Break systems to understand them — then design them to hold up
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **WebNest** | A high-performance full-stack platform with headless CMS integration. | Next.js, Sanity, Tailwind | [View Repo](https://github.com/c0de-break3r/WEBNEST.git) |
-| **Recon-Automator** | CLI tool for automated attack surface mapping and subdomain discovery. | Python, Bash, Docker | [View Repo](https://github.com) |
-| **Secure-API-Boilerplate** | A hardened Node.js/Express starter kit with security headers and rate-limiting. | Node.js, JWT, MongoDB | [View Repo](https://github.com) |
+| **[Kofiyesu](https://github.com/c0de-break3r/kofiyesu)** | Interactive 3D portfolio with CMS, AI chat intake, and Paystack payments | React 19, TypeScript, Vite, Three.js, Prisma, Neon | [Repo](https://github.com/c0de-break3r/kofiyesu) · [Live](https://kofiyesu.com) |
+| **[Bornblix](https://github.com/c0de-break3r/bornblix)** | Full-stack monorepo — Express API, web client, and Expo mobile app with real-time features | Bun, Express, MongoDB, Socket.io, Expo, React Native | [Repo](https://github.com/c0de-break3r/bornblix) |
 
+---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,typescript" />
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,bash,js,ts,html,css" alt="Languages" />
 
-### Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+**Backend & APIs**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun" alt="Backend" />
 
-### Frontend  
-<strong>Core:</strong> Next.js • Tailwind CSS • shadcn/ui  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite" />
+**Frontend & Mobile**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
 
-### Databases  
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-
-### Tooling & OS  
-<img src="https://skillicons.dev/icons?i=docker,git,linux" />
+**Data & Infrastructure**  
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git,linux" alt="Data and tooling" />
 
 </div>
 
 ---
 
-## 🎯 What I Focus On
+## What I Work On
 
-### Backend Development
-- Designing and maintaining **Node.js / Express** APIs.
-- Working with **PostgreSQL / MySQL / MongoDB**.
-- Applying **secure coding practices**, validation, and basic threat modeling.
+**Backend development**  
+Designing Node.js / Express APIs, working with PostgreSQL, MySQL, and MongoDB, and applying secure coding practices, input validation, and basic threat modeling.
 
-### Offensive Security & Pentesting
-- Reconnaissance and attack surface mapping.
-- Identifying common web vulnerabilities and misconfigurations.
-- Writing scripts to **automate recon workflows**.
+**Offensive security**  
+Reconnaissance, attack surface mapping, identifying common web vulnerabilities, and scripting repetitive pentest workflows.
 
-### Automation & Tooling
-- Building **CLI tools and small services** in Python and Bash.
-- Automating repetitive recon and reporting tasks.
-- Orchestrating multiple tools into **cohesive pipelines**.
+**Automation & tooling**  
+CLI tools and small services in Python and Bash, orchestrating recon tools into cohesive pipelines.
 
 ---
 
-## 📬 Contact & Links
+## GitHub Stats
 
-I’m open to **collaborations, security-focused projects, and backend roles**.
+<div align="center">
 
-- 📧 **Email:** [networkmandaean@gmail.com](mailto:networkmandaean@gmail.com)  
-- 🐙 **GitHub:** [https://github.com/c0de-break3r/c0de-break3r.git](https://github.com/c0de-break3r/c0de-break3r.git)  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=c0de-break3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=c0de-break3r&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c0de-break3r&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+## Contact
+
+Open to collaborations, security-focused projects, and backend roles.
+
+- **Email:** [networkmandaean@gmail.com](mailto:networkmandaean@gmail.com)
+- **GitHub:** [@c0de-break3r](https://github.com/c0de-break3r)
 
 ---
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" />
-</div>
 
-<div align="center">
-  <sub>Code. Automate. Break. Learn. Harden.</sub>
-</div>
+<sub>Code. Automate. Break. Learn. Harden.</sub>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,100:F7B115&height=80&section=footer" alt="Footer" />
+
 </div>
