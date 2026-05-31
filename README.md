@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B115&center=true&vCenter=true&width=500&lines=c0de-break3r;Backend+%26+Security+Engineer;Building+tools+that+break+%E2%80%94+then+harden" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B115&center=true&vCenter=true&width=500&lines=c0de-break3r;Backend+%26+Security+Engineer;" alt="Typing intro" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F70000,100:F7B115&text=n3tw0rk&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Backend+%7C+Automation+%7C+Offensive+Security&descSize=18&descAlignY=72" alt="Header banner" />
 
